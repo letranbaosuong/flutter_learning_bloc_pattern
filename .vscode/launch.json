@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter Login App",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/login_app/main.dart"
+        },
+        {
+            "name": "Flutter Infinite List App",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/infinite_list_app/main.dart"
+        },
+        {
+            "name": "Flutter Timer App",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/timer_app/main.dart"
+        },
+        {
+            "name": "Flutter Counter App",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/counter_app/main.dart"
+        }
+    ]
+}
