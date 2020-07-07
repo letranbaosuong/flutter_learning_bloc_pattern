@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Flutter Weather App",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/weather_app/main.dart"
+        },
+        {
             "name": "Flutter Login App",
             "type": "dart",
             "request": "launch",
